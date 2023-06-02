@@ -1,0 +1,8 @@
+# ninja log v5
+17	2746	6956167070907501	CMakeFiles/Lab1_Pizza.dir/main.cpp.obj	8555d89ab83dfe9
+18	1680	6956166346747942	CMakeFiles/Lab1_Pizza.dir/main2.cpp.obj	630c31e6ba086d8c
+4	776	6956169266099151	build.ninja	6d4b9bc6e9e9ce3a
+15	452	6956167388517397	Lab1_Pizza.exe	1846301b3c0cde04
+3	769	6956169266099151	build.ninja	6d4b9bc6e9e9ce3a
+18	2688	6956169295267672	CMakeFiles/Lab1_Pizza.dir/main.cpp.obj	8555d89ab83dfe9
+2689	3008	6956169298174996	Lab1_Pizza.exe	91cc88c6e2374d9a
